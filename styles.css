@@ -269,11 +269,11 @@ body {
 
 
 .navigation li {
-	display: none;
+	display: table-cell;
 }
 
 .navigation li.threeline-icon {
-	display: inline-block;
+	display: none;
 }
 
 
