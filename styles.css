@@ -240,6 +240,10 @@ body {
 	text-align: center;
 }
 
+footer {
+font-style: italic;
+}
+
 
 @keyframes profile-capa {
 	0% {opacity: 0; transform: translate(0px,20px)}
